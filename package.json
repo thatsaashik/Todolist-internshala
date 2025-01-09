@@ -1,6 +1,6 @@
 {
   "name": "react1",
-  "homepage": "https://thatsaashik.github.io/Todo/",
+  "homepage": "https://thatsaashik.github.io/Todoapp/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predelpoy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predelpoy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
